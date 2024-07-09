@@ -1,0 +1,126 @@
+.section1{
+    width: 100%;
+    height: 20px;
+    background-color: #262626;
+}
+body{
+    margin: 0%;padding: 0%;
+}
+p{
+    color: white;text-align: center;display: inline-block;font-size: 10px; position: relative; left: 210px; text-decoration: none;
+}
+/* select{
+    height: 15px; border: none;background-color: #262626;color: white;margin-right: 200px; font-size: 10px;position: relative;left: 6px; max-width: 200px;min-width: 1080px  ;display: inline-block;
+} */
+.section2{
+    width: 100%;
+    background-color: #080808;
+    height: 40px;
+
+}
+.section2>img{
+    height: 30px; position: relative; top: 10px; left: 10px
+    ;
+}
+.menuleftitems ul li section{
+    display: inline-block ;
+}
+select{
+    border: none ; background-color: #080808; color: white; position: relative; left: 350px;
+}
+.banner{
+    background-image: url(https://techno-workdo.myshopify.com/cdn/shop/files/main-banner-1.png?v=1714560913 );
+    height: 500px; width: 100%; background-position: center;
+    background-size: cover;position: relative;z-index: 1;margin: 0%; padding: 0%;
+}
+.heading{
+    color: white; font-family: sans-serif; text-align: center; position: relative; top: 200px;font-size:150px ;font-weight: 600;line-height: 110px;
+    text-shadow: -120px -12px 1px #666666
+}
+.heading2{
+    color: white; text-align: center;position: relative; top: 200px;
+}
+.heading3{
+    background-color: #2996d8; color: white; position: relative;left: 800px; top: 120px;width: 200px;height: 50px;
+}
+.section4{
+    height: 400px; width: 100%; background-color: #080808; margin: 0; padding: 0;
+}
+.section4heading{
+    color: white;position: relative; left: 20px; top: 70px; text-shadow: -40px -9px 1px #666666
+}
+*{
+    margin: 0%; padding: 0;
+}
+table{
+    color: white; position: relative; left: 80px; top: 100px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+td{
+   position: relative; left: 20px;
+}
+.newcollection1{
+    height: 300px; width: 40%;background-image: url(https://techno-workdo.myshopify.com/cdn/shop/files/box-image-1.png?v=1714622893);background-position: center;
+    background-size: cover;position: relative;z-index: 1;margin: 0%; padding: 0%; display: inline-block;
+}
+.newcollection2{
+    
+    height: 300px; width: 40%;background-image: url(https://techno-workdo.myshopify.com/cdn/shop/files/box-image-2.png?v=1714622894);background-position: center;
+    background-size: cover;position: relative;z-index: 1;margin: 0%; padding: 0%;margin-right: 20px !important; display: inline-block;
+
+}
+.don{
+    color: white;position: relative; left: 180px; top: 60px;
+}
+.don2{
+    background-color: #2996d8;
+    color: white;
+    height: 50px; width:100px;
+    position: relative; left: 200px;top: 120px;
+}
+.trendingproducts{
+    height: 300px; width: 100%;background-color: #080808;
+}
+.tp{
+    height: 50px; width: 50%;background-color: #1c1c1c;background-image: url(https://techno-workdo.myshopify.com/cdn/shop/files/1_bf165974-66c5-4764-b37c-251a6ea54e70_300x300.png?v=1714544015);
+    background-position: center;
+ background-size: cover;position: relative;z-index: 1;margin: 0%; padding: 0%;margin-right: 20px !important; display: inline-block;}
+.trendingproducts>h1{
+    color: white;position: relative;left: 35px;top: 79px;text-shadow: -20px -12px 1px #666666
+    
+}
+.trendingproducts{
+    width: 100%;height: 500px;background-color: #080808;
+}
+.tp1{
+    height: 290px;width: 290px; background-color:#080808 ; position: relative;top: 90px;
+    background-image: url(https://techno-workdo.myshopify.com/cdn/shop/files/1_bf165974-66c5-4764-b37c-251a6ea54e70_300x300.png?v=1714544015);background-position: center;
+    background-size: cover;position: relative;z-index: 1;margin: 0%; padding: 0%;display: inline-block;
+}
+.tp2{
+    background-image: url(https://techno-workdo.myshopify.com/cdn/shop/files/1_b8909a7e-4e0f-4f92-975e-fe6f6893b598_300x300.png?v=1714545508);
+background-position: center; background-size: cover;position: relative;z-index: 1;margin: 0%; padding: 0%; display: inline-block; height: 290px;width: 290px; background-color:#080808 ; position: relative;top: 90px;}
+.tp3{
+    background-image: url(https://techno-workdo.myshopify.com/cdn/shop/files/1_19092964-fca6-4571-8a72-bb93980fb9cd_300x300.png?v=1714545267);
+    background-position: center; background-size: cover;position: relative;z-index: 1;margin: 0%; padding: 0%; display: inline-block; height: 290px;width: 290px; background-color:#080808 ; position: relative;top: 90px;
+}
+.tp4{
+    background-position: center; background-size: cover;position: relative;z-index: 1;margin: 0%; padding: 0%; display: inline-block; height: 290px;width: 290px; background-color:#080808 ; position: relative;top: 90px;  
+ background-image: url(https://techno-workdo.myshopify.com/cdn/shop/files/1_46791a33-c2ce-41df-86b1-87639cce0ab2_300x300.png?v=1714544593);}
+ .tp5{
+    background-position: center; background-size: cover;position: relative;z-index: 1;margin: 0%; padding: 0%; display: inline-block; height: 290px;width: 290px; background-color:#080808 ; position: relative;top: 90px;
+    background-image: url(https://techno-workdo.myshopify.com/cdn/shop/files/1_649c0fe3-17a6-4c66-9af7-eb543b8486d1_300x300.png?v=1714544738);
+
+ }
+ .iphone{
+    height: 700px;width: 100%;background-color: #2996d8;background-image: url(https://techno-workdo.myshopify.com/cdn/shop/files/discount-banner.png?v=1714633110); background-position: center; background-size: cover;position: relative;z-index: 1;
+ }
+ .iphone{
+    color: white;font-family: sans-serif;position: relative;;top: 200px;left: 500px;
+ }
+ .iphone button{
+    background-color: #2996d8;color: white; height: 100px;width: 150px;
+ }
